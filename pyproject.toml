@@ -1,6 +1,8 @@
 [project]
 name = "env-base"
 version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "aiofiles>=24.1.0",
@@ -17,6 +19,7 @@ dependencies = [
     "openpyxl>=3.1.5",
     "pandas>=2.2.3",
     "pillow>=11.1.0",
+    "playwright>=1.51.0",
     "pypinyin>=0.53.0",
     "requests>=2.32.3",
     "wordcloud>=1.9.4",
