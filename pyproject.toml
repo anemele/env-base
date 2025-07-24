@@ -28,9 +28,6 @@ dependencies = [
     "wordcloud>=1.9.4",
 ]
 
-[[tool.uv.index]]
-url = "https://pypi.tuna.tsinghua.edu.cn/simple"
-
 [dependency-groups]
 windows = [
     "pywin32>=308",
